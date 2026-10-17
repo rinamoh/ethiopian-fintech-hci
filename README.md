@@ -27,7 +27,16 @@ Ethiopian users, rather than adapted downward from a Western fintech template.
 
 Interactive Figma prototype: [link — coming once prototype is complete]
 
-Screenshots: /screenshots
+Screenshots:
+## Screens
+
+| Onboarding | Home | Portfolio Overview |
+|------------|------|-------------------|
+| ![Onboarding](screenshots/01-Onboarding.png) | ![Home](screenshots/02-Home.png) | ![Portfolio](screenshots/03-Portfolio-Overview.png) |
+
+| Portfolio Detail | Market | Voice Query |
+|-----------------|--------|-------------|
+| ![Detail](screenshots/04-Portfolio-Detail.png) | ![Market](screenshots/05-Market.png) | ![Voice](screenshots/06a-Voice-Default.png) |
 
 ## Study Design
 
