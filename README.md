@@ -32,11 +32,19 @@ Screenshots:
 
 | Onboarding | Home | Portfolio Overview |
 |------------|------|-------------------|
-| ![Onboarding](screenshots/01-Onboarding.png) | ![Home](screenshots/02-Home.png) | ![Portfolio](screenshots/03-Portfolio-Overview.png) |
+| ![Onboarding](screenshots/01-Onboarding.png) | ![Home](screenshots/02-Home.png) | ![Portfolio Overview](screenshots/03-Portfolio-Overview.png) |
 
-| Portfolio Detail | Market | Voice Query |
-|-----------------|--------|-------------|
-| ![Detail](screenshots/04-Portfolio-Detail.png) | ![Market](screenshots/05-Market.png) | ![Voice](screenshots/06a-Voice-Default.png) |
+| Portfolio Detail | Market | Help |
+|-----------------|--------|------|
+| ![Portfolio Detail](screenshots/04-Portfolio-Detail.png) | ![Market](screenshots/05-Market.png) | ![Help](screenshots/07-Help.png) |
+
+| Voice Default | Voice Listening | Voice Response |
+|--------------|----------------|----------------|
+| ![Voice Default](screenshots/06a-Voice-Default.png) | ![Voice Listening](screenshots/06b-Voice-Listening.png) | ![Voice Response](screenshots/06c-Voice-Response.png) |
+
+| Error No Internet | Error Timeout | Error General |
+|------------------|---------------|---------------|
+| ![No Internet](screenshots/08a-Error-NoInternet.png) | ![Timeout](screenshots/08b-Error-Timeout.png) | ![General Error](screenshots/08c-Error-General.png) |
 
 ## Study Design
 
